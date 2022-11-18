@@ -4,5 +4,5 @@
   <h6>SELF School</h6>
   <h1><b>NEWSLETTER</b></h1>
   <p>Great things are done by series of small things brought together<br>- Vincent Van Gogh</p>
-  | <a href="https://github.com/SELFSchool/topics/issues/1">README</a> | <a href="https://github.com/SELFSchool/topics/issues/2">Directory</a> | <a href="https://github.com/SELFSchool/topics/issues/3">Topics</a> |
+  | <a href="https://github.com/SELFSchool/topics/issues/1">Overview</a> | <a href="https://github.com/SELFSchool/topics/issues/2">Directory</a> | <a href="https://github.com/SELFSchool/topics/issues/3">Topics</a> |
 </div>
